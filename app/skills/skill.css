@@ -1,0 +1,30 @@
+.skill-block {
+  border: 1px solid white;
+  display: inline-block;
+  max-width: 300px;
+  min-width: 200px;
+  color: white;
+  max-width: min-content;
+  margin-bottom: 10%;
+}
+.skill-block-name {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px;
+  border: 1px solid white;
+}
+.skill-list {
+  padding: 10px;
+
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.skill-container {
+  margin-top: -10%;
+}
+.skill {
+  color: white;
+  margin-top: 10%;
+  font-weight: bold;
+  font-size: 30px;
+}

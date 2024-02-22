@@ -1,0 +1,37 @@
+.container {
+  /* display: flex; */
+  width: 100%;
+  justify-content: center;
+  align-self: center;
+}
+.root {
+  color: white;
+  font-family: "fire code", monospace;
+}
+.cup {
+  display: flex;
+  align-items: center;
+  margin-top: 5%;
+  gap: 30px;
+  width: 100%;
+}
+.intro {
+  font-size: 32px;
+  font-weight: 600;
+  margin-right: 30%;
+}
+
+.desc {
+  margin-top: 1.5%;
+  opacity: 0.8;
+}
+.button {
+  margin-top: 2%;
+  border: 1px solid white;
+  width: fit-content;
+  padding: 5px;
+}
+.img {
+  width: 50%;
+
+}

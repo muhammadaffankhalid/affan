@@ -1,0 +1,32 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2em;
+  color: white;
+  background-color: var(--background);
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.navbar {
+  display: flex;
+
+  width: 100%;
+}
+
+nav {
+  flex: auto;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.items {
+  display: flex;
+
+  align-items: center;
+}
+
+.subjects {
+  display: flex;
+  gap: 40px;
+}

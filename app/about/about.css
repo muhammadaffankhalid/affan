@@ -1,0 +1,16 @@
+.about {
+  color: whitesmoke;
+  margin-top: 10%;
+  font-weight: bold;
+  font-size: 30px;
+}
+.about-container {
+  display: flex;
+  color: wheat;
+  margin-top: 10%;
+  align-items: center;
+  margin-top: -20%;
+}
+.img {
+  margin-left: -15%;
+}
