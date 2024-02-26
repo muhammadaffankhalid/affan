@@ -2,9 +2,10 @@
 import Image from "next/image";
 import "./page.css";
 import Quote from "./quote";
+
 export default function Home() {
   const handleonclick = () => {
-    window.location.href = `mailto: muhammadaffankhalid4@gmail.com.`
+    window.location.href = `mailto: muhammadaffankhalid4@gmail.com.`;
   };
   return (
     <div className="root">

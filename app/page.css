@@ -5,9 +5,11 @@
   align-self: center;
 }
 .root {
+  display: flex;
   color: white;
   font-family: "fire code", monospace;
 }
+
 .cup {
   display: flex;
   align-items: center;
