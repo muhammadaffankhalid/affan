@@ -3,9 +3,9 @@ import "./about.css";
 export default function AboutPage() {
   return (
     <div className="container">
-      <div className="grid grid-rows-2 grid-container">
-        <div className="col-span-1 about">/about</div>
-        <div className="col-span-1 about-container">
+      <div className="grid grid-rows-2 gap-4">
+        <div className="about flex-grow-0">/about</div>
+        <div className="about-container flex-grow">
           <img src="/cat2.png" alt="affan" className="img" />
           <p>
             I’m a full stack developer based in London, United Kingdom. I can

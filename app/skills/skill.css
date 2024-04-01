@@ -20,11 +20,18 @@
   justify-content: space-evenly;
 }
 .skill-container {
-  margin-top: -10%;
+  margin-top: 10%;
 }
 .skill {
   color: white;
   margin-top: 10%;
   font-weight: bold;
   font-size: 30px;
+}
+.Incontainer {
+  display: flex;
+  flex-direction: column;
+}
+.grid-container {
+  display: flex;
 }

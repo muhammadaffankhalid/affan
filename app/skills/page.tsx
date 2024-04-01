@@ -21,10 +21,10 @@ export default function skills() {
 
   return (
     <div className="container">
-      <div className="grid grid-rows-2">
-        <div className="row-span-1 skill">/skills</div>
-        <div className="row-span-1 skill-container ">
-          <div className="grid grid-cols-3">
+      <div className="Incontainer">
+        <div className="cols-span-1 skill">/skills</div>
+        <div className="cols-span-1 skill-container ">
+          <div className="grid grid-cols-3 grid-container">
             {skills.map((skill, index) => (
               <div key={index} className="skill-block">
                 <div className="skill-block-name">{skill.name}</div>

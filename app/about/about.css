@@ -1,16 +1,25 @@
+
+
 .about {
   color: whitesmoke;
-  margin-top: 10%;
   font-weight: bold;
   font-size: 30px;
+  margin-top: 10%; /* Adjust this margin as needed */
 }
+
 .about-container {
+  margin-top: -20%; /* Adjust this margin as needed */
   display: flex;
   color: wheat;
-  margin-top: 10%;
   align-items: center;
-  margin-top: -20%;
 }
+
 .img {
-  margin-left: -15%;
+  margin-left: -15%; /* Adjust this margin as needed */
+}
+
+.container {
+  display: flex;
+
+  justify-content: center; /* Optional: Center the content horizontally */
 }
