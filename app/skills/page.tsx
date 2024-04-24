@@ -3,11 +3,11 @@ export default function skills() {
   const skills = [
     {
       name: "Languages",
-      list: ["python", "javascript", "java", "c++", "c#", "html", "css"],
+      list: ["python", "javascript", "java", "c++", "c#", "html", "css","tailwindcss"],
     },
     {
       name: "Frameworks",
-      list: ["react", "django", "flask", "express"],
+      list: ["react js","Next js", "Node js", "flask", "express"],
     },
     {
       name: "Databases",
