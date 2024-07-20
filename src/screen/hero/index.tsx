@@ -55,7 +55,6 @@ const Hero = () => {
             {wrapInImportantTag("TypeScript")}, {wrapInImportantTag("React.js")}
             , {wrapInImportantTag("Next.js")}, {wrapInImportantTag("Node.js")},{" "}
             {wrapInImportantTag("PHP")}, {wrapInImportantTag("Java")},
-            {wrapInImportantTag("Swift")}, {wrapInImportantTag("Flutter Web")},
             {wrapInImportantTag("Tailwind CSS")},{" "}
             {wrapInImportantTag("Material UI")}, and etc. Hands on experience on{" "}
             {wrapInImportantTag("Microservices")} and{" "}
