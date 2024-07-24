@@ -49,12 +49,12 @@ const Hero = () => {
             transition={{ duration: 1.2 }}
             className="block text-center md:text-start max-w-[30rem] text-base lg:text-lg font-normal leading-5 md:leading-7 text-cinder-light"
           >
-            Full-stack developer with more than {wrapInImportantTag("2+ years")}{" "}
-            of experience in enterprise companies and startups. Proficient in{" "}
+            Full-stack developer with more than {wrapInImportantTag("1+ years")}{" "}
+            of experience in a enterprise company. Proficient in{" "}
             {wrapInImportantTag("JavaScript")},{" "}
             {wrapInImportantTag("TypeScript")}, {wrapInImportantTag("React.js")}
             , {wrapInImportantTag("Next.js")}, {wrapInImportantTag("Node.js")},{" "}
-            {wrapInImportantTag("PHP")}, {wrapInImportantTag("Java")},
+            {wrapInImportantTag("React Native")}, {wrapInImportantTag("Java")},
             {wrapInImportantTag("Tailwind CSS")},{" "}
             {wrapInImportantTag("Material UI")}, and etc. Hands on experience on{" "}
             {wrapInImportantTag("Microservices")} and{" "}
@@ -80,7 +80,7 @@ const Hero = () => {
             />
             <motion.a
               target="_blank"
-              href="Affan.pdf"
+              href="Khalid.pdf"
               initial={{ scale: 1.3 }}
               animate={{ scale: 1 }}
               transition={{ ease: "easeIn", duration: 0.1 }}
