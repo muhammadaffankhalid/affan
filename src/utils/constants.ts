@@ -26,17 +26,17 @@ export const CAREER: TCareer[] = [
     role: "Full Stack Developer",
     company: "Devsinc",
     companyLink: "https://www.devsinc.com",
-    duration: "2022-2023",
+    duration: "2021-2023",
     details:
       "I've crafted and managed over high-performing, scalable applications employing diverse programming languages. Collaborated closely with cross-functional teams to grasp business needs and convert them into technical solutions. Proficiently utilized distributed databases such as MySQL, PostgreSQL, and MongoDB. Additionally, I've taken on the role of mentoring junior engineers, aiding in their technical and professional development.",
   },
 
   {
-    role: "Contractor",
-    company: "Self-Employed - Freelance",
-    companyLink: "#",
+    role: "Software Developer",
+    company: "Logic Mount",
+    companyLink: "# ",
     isNoLink: true,
-    duration: "2022-2023",
+    duration: "2020-2021",
     details:
       "I Developed and maintained microservices architecture for various web applications, leveraging technologies such as React.js, Node.js, Express.js, MongoDB, and Docker, reducing development time by 30%.",
   },
