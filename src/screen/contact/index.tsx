@@ -57,6 +57,7 @@ const ContactScreen = () => {
           } else {
             toast.error(`Some error occurred!`, snackbarOptions);
           }
+          console.log(response);
         }}
       >
         <Form className="flex flex-col gap-y-5 w-full max-w-96">
