@@ -26,7 +26,7 @@ export const CAREER: TCareer[] = [
     role: "Full Stack Developer",
     company: "Devsinc",
     companyLink: "https://www.devsinc.com",
-    duration: "2021-2023",
+    duration: "2021-2024",
     details:
       "I've crafted and managed over high-performing, scalable applications employing diverse programming languages. Collaborated closely with cross-functional teams to grasp business needs and convert them into technical solutions. Proficiently utilized distributed databases such as MySQL, PostgreSQL, and MongoDB. Additionally, I've taken on the role of mentoring junior engineers, aiding in their technical and professional development.",
   },
