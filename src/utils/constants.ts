@@ -11,10 +11,10 @@ export const NAVBAR_OPTIONS = [
     label: "Career",
     href: "/career",
   },
-  {
-    label: "Projects",
-    href: "/projects",
-  },
+  // {
+  //   label: "Projects",
+  //   href: "/projects",
+  // },
   {
     label: "Contact",
     href: "/contact",
